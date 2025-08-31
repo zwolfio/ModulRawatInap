@@ -44,7 +44,7 @@ Bisa langsung Buka: http://localhost:3000
 
 ## 🧑‍💻 Stack
 
--- Next.js (App Router) → routing modern dan file-based
--- TypeScript → tipe ketat, aman dari any liar
--- TailwindCSS → styling cepat & konsisten
--- Zustand → state management ringan, persisten di localStorage
+- Next.js (App Router) → routing modern dan file-based
+- TypeScript → tipe ketat, aman dari any liar
+- TailwindCSS → styling cepat & konsisten
+- Zustand → state management ringan, persisten di localStorage
